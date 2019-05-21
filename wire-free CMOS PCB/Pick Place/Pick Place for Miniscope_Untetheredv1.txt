@@ -1,0 +1,62 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+D2         PCB-rxignohmhwwbcdr49pvh-1     59.055mil     19.685mil     59.055mil     19.685mil     118.11mil    -50.197mil  T        180.00 Vishay TSOP57438TT1
+L2         PCB-38x7zorla5a68e0t6zul-1        400mil        460mil        400mil        460mil        400mil    487.559mil  B        270.00 Murata BLM18PG471SN1D
+C5         CAPC1005X55X25LL05T10        415mil        415mil        415mil        415mil    430.354mil        415mil  T        180.00 Murata GRM155R71C104KA88D
+L6         0806_SMD_Inductor         50mil        370mil         50mil        370mil         50mil    338.504mil  B         90.00 Murata LQM2MPN2R2MG0L
+L5         0806_SMD_Inductor         60mil        620mil         60mil        620mil     91.496mil        620mil  B        180.00 Murata LQM2MPN2R2MG0L
+Y1         PCB-4sepxroiskk6o67y4qoj-1         83mil        350mil         83mil        350mil    116.465mil    306.693mil  T         90.00 ABM8G-12.000MHZ-4Y-T3
+U5         TXS0206A           227.756mil        515mil    227.756mil        515mil    259.252mil    491.378mil  B         90.00 Texas Instruments TXS0206AYFPR
+U4         LT-DDB-10_V            450mil        600mil        450mil        600mil    486.417mil     639.37mil  B        180.00 LTC3218EDDB#PBF
+U3         LT-DD-10_V             115mil        505mil        115mil        505mil      75.63mil    561.102mil  B        270.00 LTC3407EDD-3#PBF
+U2         PCB-riz48565jdh61v0tc6cm-1        330mil        180mil        330mil        180mil    188.268mil    321.733mil  T        360.00 Atmel ATSAME70N21A-CN
+U1         uCLCC48            300.984mil        205mil        300mil        205mil    480.039mil    191.024mil  B         90.00 E2V JADE EV76C454
+R8         RESC1005X40X25NL05T05        330mil        560mil        330mil        560mil    312.284mil        560mil  B        360.00 Panasonic ERJ-2RKF8251X
+R7         RESC1005X40X25NL05T05        460mil        520mil        460mil        520mil    442.284mil        520mil  B        360.00 Panasonic ERJ-2RKF2001X
+R6         RESC1005X40X25NL05T05        445mil        440mil        445mil        440mil        445mil    422.284mil  B         90.00 Panasonic ERJ-2RKF1001X
+R5         RESC1005X40X25NL05T05        480mil        440mil        480mil        440mil        480mil    422.284mil  B         90.00 Panasonic ERJ-2RKF1001X
+R4         RESC1005X40X25NL10T10         12mil        -36mil         12mil        -36mil         12mil    -52.732mil  B         90.00 Panasonic / Panasonic ECG ERJ-2RKF1003X
+R3         RESC1005X40X25NL10T10         12mil         32mil         12mil         32mil         12mil     48.732mil  B        270.00 Panasonic / Panasonic ECG ERJ-2RKF1003X
+R2         RESC1005X40X25NL05T05        -47mil         69mil        -47mil         69mil        -47mil     86.716mil  T        270.00 Panasonic ERJ-2RKF4990X
+R1         RESC1005X40X25NL05T05        300mil        400mil        300mil        400mil        300mil    417.716mil  T        270.00 Panasonic ERJ-2RKF4871X
+Q1         ONSC-SOT-723-3-631AA-01_V        325mil        625mil        325mil        625mil    309.252mil    644.291mil  B        270.00 NTK3134NT1G    
+L4         PCB-38x7zorla5a68e0t6zul-1        325mil        485mil        325mil        485mil    297.441mil        485mil  B        360.00 Murata BLM18PG471SN1D
+L3         PCB-38x7zorla5a68e0t6zul-1        120mil        230mil        120mil        230mil        120mil    202.441mil  T         90.00 Murata BLM18PG471SN1D
+L1         PCB-38x7zorla5a68e0t6zul-1        325mil        435mil        325mil        435mil    297.441mil        435mil  B        360.00 Murata BLM18PG471SN1D
+J9         Single_Pin_for_50mil_pitch        180mil        635mil        180mil        635mil        180mil        635mil  B        180.00 Single Pad_Pin 
+J8         Single_Pin_for_50mil_pitch        135mil        635mil        135mil        635mil        135mil        635mil  B        180.00 Single Pad_Pin 
+J6         Single_Pin_for_50mil_pitch        225mil        635mil        225mil        635mil        225mil        635mil  B        360.00 Single Pad_Pin 
+J5         Single_Pin_for_50mil_pitch        -40mil         86mil        -40mil         86mil        -40mil         86mil  B        270.00 Single Pad_Pin 
+J4         Single_Pin_for_50mil_pitch        -40mil         41mil        -40mil         41mil        -40mil         41mil  B        270.00 Single Pad_Pin 
+J3         Single_Pin_for_50mil_pitch        -40mil        -49mil        -40mil        -49mil        -40mil        -49mil  B        270.00 Single Pad_Pin 
+J2         Single_Pin_for_50mil_pitch        -40mil         -4mil        -40mil         -4mil        -40mil         -4mil  B        270.00 Single Pad_Pin 
+J1         PCB-gwct26a1sfovcgvkigvj-1    271.161mil    523.426mil    255.905mil    649.607mil    234.252mil    598.032mil  T        360.00 Molex 0475710001
+D1         LED1608x55L            -49mil        -23mil        -49mil        -23mil        -49mil    -48.591mil  T         90.00 Vishay / Lite-On LTST-C191KRKT
+C30        CAPC1005X55X25LL05T10        267mil        645mil        267mil        645mil    282.354mil        645mil  T        180.00 Murata GRM155R71C104KA88D
+C29        CAPC1005X55X25LL05T10        214mil        585mil        214mil        585mil    198.646mil        585mil  B        360.00 Murata GRM155R71C104KA88D
+C28        CAPC1005X55X25LL05T10        330mil        525mil        330mil        525mil    345.354mil        525mil  B        180.00 Murata GRM155R71C104KA88D
+C27        CAPC1005X55X25LL05T10        380mil        545mil        380mil        545mil        380mil    529.646mil  B         90.00 Murata GRM155R70J105KA12D
+C26        CAPC1005X55X25NL05T10        375mil        630mil        375mil        630mil        375mil    612.677mil  B         90.00 Murata GRM155R60J225ME95D
+C25        CAPC1005X55X25LL05T10        475mil        645mil        475mil        645mil    459.646mil        645mil  T        360.00 Murata GRM155R60J475ME47D
+C24        CAPC1005X55X25LL05T10        410mil        645mil        410mil        645mil    394.646mil        645mil  T        360.00 Murata GRM155R60J225ME95D
+C23        PCB-f7r9madups15q2flo6b5-1         25mil        530mil         25mil        530mil         25mil    514.646mil  B        270.00 Samsung CL05A106MP5NUNC
+C22        PCB-f7r9madups15q2flo6b5-1         25mil        465mil         25mil        465mil         25mil    480.354mil  B         90.00 Samsung CL05A106MP5NUNC
+C21        PCB-f7r9madups15q2flo6b5-1        125mil        645mil        125mil        645mil    109.646mil        645mil  T          0.00 Samsung CL05A106MP5NUNC
+C20        CAPC1005X55X25LL05T10         52mil        255mil         52mil        255mil     36.646mil        255mil  T        360.00 Murata GRM1555C1H120JA01D
+C19        CAPC1005X55X25LL05T10        180mil        380mil        180mil        380mil    164.646mil        380mil  T        360.00 Murata GRM1555C1H120JA01D
+C18        CAPC1005X55X25LL05T10        240mil        455mil        240mil        455mil    224.646mil        455mil  B        360.00 Murata GRM155R60J475ME47D
+C17        CAPC1005X55X25LL05T10        159mil        -35mil        159mil        -35mil        159mil    -50.354mil  T         90.00 Murata GRM155R71C104KA88D
+C16        CAPC1005X55X25LL05T10         97mil        148mil         97mil        148mil         97mil    132.646mil  T         90.00 Murata GRM155R71C104KA88D
+C15        CAPC1005X55X25LL05T10        250mil        380mil        250mil        380mil    234.646mil        380mil  T        360.00 Murata GRM155R70J105KA12D
+C14        CAPC1005X55X25LL05T10        250mil        415mil        250mil        415mil    234.646mil        415mil  T        360.00 Murata GRM155R71C104KA88D
+C13        CAPC1005X55X25LL05T10        550mil        336mil        550mil        336mil    565.354mil        336mil  T        180.00 Murata GRM155R71C104KA88D
+C12        CAPC1005X55X25LL05T10         52mil        220mil         52mil        220mil     36.646mil        220mil  T        360.00 Murata GRM155R71C104KA88D
+C9         CAPC1005X55X25LL05T10        129mil        149mil        129mil        149mil        129mil    133.646mil  T         90.00 Murata GRM155R71C104KA88D
+C8         CAPC1005X55X25LL05T10        180mil        415mil        180mil        415mil    164.646mil        415mil  T        360.00 Murata GRM155R71C104KA88D
+C7         CAPC1005X55X25LL05T10        192mil        -34mil        192mil        -34mil        192mil    -49.354mil  T         90.00 Murata GRM155R71C104KA88D
+C6         PCB-f7r9madups15q2flo6b5-1        415mil        380mil        415mil        380mil    430.354mil        380mil  T        180.00 Samsung CL05A106MP5NUNC
+C4         PCB-f7r9madups15q2flo6b5-1        535mil        289mil        535mil        289mil        535mil    304.354mil  T        270.00 Samsung CL05A106MP5NUNC
+C3         CAPC1005X55X25LL05T10        568mil        289mil        568mil        289mil        568mil    304.354mil  T        270.00 Murata GRM155R71C104KA88D
+C2         PCB-f7r9madups15q2flo6b5-1        350mil        415mil        350mil        415mil    334.646mil        415mil  T        360.00 Samsung CL05A106MP5NUNC
+C1         CAPC1005X55X25LL05T10        350mil        380mil        350mil        380mil    334.646mil        380mil  T        360.00 Murata GRM155R71C104KA88D
+

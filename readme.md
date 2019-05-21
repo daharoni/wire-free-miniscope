@@ -1,5 +1,5 @@
 # Information on the wire-free Miniscope
-
+***Find the most up-to-date information on the wire-free Miniscope system on [miniscope.org](http://miniscope.org/index.php/Wire-free_Miniscope).***
 ## Tutorial on setting up a new wire-free Miniscope
 ### 1) First we need to make sure we have all the components and software to get things up and running.
 #### New components that need to be made
